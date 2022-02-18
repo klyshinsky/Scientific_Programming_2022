@@ -9,6 +9,8 @@
 
 ## Лекции
 
-[Лекция 1](https://github.com/klyshinsky/Scientific_Programming_2022/blob/main/lecture_20220122_Statistics.ipynb) - откуда появляется доверительный интервал и как оценить, достаточно ли мы собрали точек для эксперимента.
+[Лекция 1, 2](https://github.com/klyshinsky/Scientific_Programming_2022/blob/main/lecture_20220122_Statistics.ipynb) - откуда появляется доверительный интервал и как оценить, достаточно ли мы собрали точек для эксперимента.
+
+[Лекция 3](https://github.com/klyshinsky/Scientific_Programming_2022/blob/main/lecture_20220219_multiprocessing.ipynb) - параллельное программирование.
 
 
